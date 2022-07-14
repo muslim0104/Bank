@@ -1,0 +1,16 @@
+.inp{
+    text-align: center;
+    padding-top: 70px;
+}
+.btn{
+    text-align: center;
+}
+
+.red{
+    border: red 1px solid;
+    
+}
+
+input::-webkit-input-placeholder{
+    color: red;
+}
